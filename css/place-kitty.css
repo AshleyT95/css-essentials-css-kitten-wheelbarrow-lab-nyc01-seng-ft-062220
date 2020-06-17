@@ -38,7 +38,7 @@
 
 /*__write_selector_here__*/ #kitty 5{
   position: absolute;
-  z-index: 0;
+  z-index: 10;
   top: 217px;
   left: 223px;
 }
